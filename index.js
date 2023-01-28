@@ -7,7 +7,7 @@ if(yage >= 18) {
     } else if (mark === 2) {
     confirm('Аренда за чаc BMW стоит 200$')} 
     else if (mark === 3) {
-r        confirm('Аренда за чаc Audi стоит 200$')}
+       confirm('Аренда за чаc Audi стоит 200$')}
     else if (mark === 4) {
             confirm('Аренда за чаc Lamborghini стоит 200$')}
     if(confirm === true) {
